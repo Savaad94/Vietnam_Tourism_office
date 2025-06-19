@@ -1,0 +1,2 @@
+# Vietnam_Tourism_office
+A fictional website for the Vietnam Tourism Office, developed using HTML and CSS as part of a Higher Vocational Training course in web development. The project promotes Vietnam’s landscapes, culture, and travel information through a clean, responsive layout. It includes sections for destinations, travel tips, cultural highlights, and contact, simulating a real tourism site experience.
